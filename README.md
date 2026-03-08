@@ -1,4 +1,4 @@
-# BarokahCoffee - Sistem Pemesanan Kopi
+# BarokahCoffee - Sistem Pemesanan
 
 Website pemesanan kopi berbasis PHP Native dengan 4 role user: Admin, Kasir, Dapur, dan Pelanggan.
 
@@ -283,5 +283,5 @@ Free to use for educational purposes.
 
 ---
 
-**BarokahCoffee** - Sistem Pemesanan Kopi Modern & Efisien ☕
+**BarokahCoffee** - Sistem Pemesanan 
 Dibuat dengan ❤️ menggunakan PHP Native
